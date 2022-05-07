@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da04ae46961c2d4448dc598494629cca, type: 3}
+  m_Name: Manufacturing and Distribution
+  m_EditorClassIdentifier: 
+  subject: 'Manufacturing and Distribution '
+  data:
+  - 77.23
+  - 66.565
+  - 79.73
+  - 76.565
+  - 57.7
+  - 77.91
+  - 71.625
+  - 75.35
+  - 87.03
+  - 82.345
+  - 80.37
+  - 72.365
+  - 74.165
+  - 86.56
+  - 74.1
+  - 79.61
